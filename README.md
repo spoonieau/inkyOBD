@@ -1,4 +1,4 @@
-#inkyOBD
+inkyOBD
 
 Small python script to gather OBD2 data via a clone ELM327 usb adapter and rpi ZERO W to output to a Pimoroni InkyPhat e-Ink screen.
 
